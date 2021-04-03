@@ -1,0 +1,14 @@
+.summary{
+    background-color: rgb(98, 194, 204);
+    color: white;
+}
+.jumbotron {
+    background-color: rgb(98, 194, 204);
+}
+.section1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
